@@ -28,9 +28,10 @@
 | Limine Bootloader | Login Screen (SDDM) | Lock Screen |
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/DotsOS/.github/refs/heads/main/profile/assets/background.png" width="400" alt="Limine Screen"> | <img src="https://github.com/user-attachments/assets/3a21a2d3-542a-42fe-b69c-40978eadd42b" width="400" alt="SDDM Screen"> | <img src="https://github.com/user-attachments/assets/21f984bc-2a4b-41f8-90d8-512a326a0b57" width="400" alt="Lock Screen"> |
+
 | Desktop (Hyprland) | Panels | Notifications |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/22924c33-8105-480a-b16d-12e76c19021f" width="400" alt="Desktop"> | <img src="https://github.com/user-attachments/assets/35648809-2bb7-42c5-bdeb-80d10fc66b93" width="400" alt="Caelestia Shell"> | <img src="" width="400" alt="Notifications"> |
+| <img src="https://github.com/user-attachments/assets/22924c33-8105-480a-b16d-12e76c19021f" width="400" alt="Desktop"> | <img src="https://github.com/user-attachments/assets/35648809-2bb7-42c5-bdeb-80d10fc66b93" width="400" alt="Caelestia Shell"> | <img src="https://github.com/user-attachments/assets/3170f3cc-7795-4ad8-8718-21b7c5af404a" width="400" alt="Notifications"> |
 ## 🚀 Installation
 
 ## ⚙️ Configuration
