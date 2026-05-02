@@ -38,6 +38,25 @@
 
 ## ⚙️ Configuration
 
+**Hyprland (Caelestia Dots)**
+*   **Variables** ```~/.config/hypr/variables.conf```
+*   **Hyprland** ```~/.config/hypr/hyprland.conf```
+*   **Animations** ```~/.config/hypr/hyprland/animations.conf```
+*   **Decoration** ```~/.config/hypr/hyprland/decoration.conf```
+*   **Env** ```~/.config/hypr/hyprland/env.conf```
+*   **Execs** ```~/.config/hypr/hyprland/execs.conf```
+*   **General** ```~/.config/hypr/hyprland/general.conf```
+*   **Gestures** ```~/.config/hypr/hyprland/gestures.conf```
+*   **Group** ```~/.config/hypr/hyprland/group.conf```
+*   **Input** ```~/.config/hypr/hyprland/input.conf```
+*   **Keybinds** ```~/.config/hypr/hyprland/keybinds.conf```
+*   **Misc** ```~/.config/hypr/hyprland/misc.conf```
+*   **Rules** ```~/.config/hypr/hyprland/rules.conf```
+*   **Scrolling** ```~/.config/hypr/hyprland/scrolling.conf```
+
+**Sestem**
+*   **Bootloader** ```/boot/limine/limine.conf```
+
 ## 🙏 Credits
 
 This project wouldn't be possible without these amazing open-source projects. Special thanks to:
