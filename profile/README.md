@@ -38,21 +38,23 @@
 
 ## ⚙️ Configuration
 
+This configuration follows a modular structure to keep the setup organized and easy to maintain. Below is a breakdown of the configuration files:
+
 **Hyprland (Caelestia Dots)**
-*   **Variables** ```~/.config/hypr/variables.conf```
-*   **Hyprland** ```~/.config/hypr/hyprland.conf```
-*   **Animations** ```~/.config/hypr/hyprland/animations.conf```
-*   **Decoration** ```~/.config/hypr/hyprland/decoration.conf```
-*   **Env** ```~/.config/hypr/hyprland/env.conf```
-*   **Execs** ```~/.config/hypr/hyprland/execs.conf```
-*   **General** ```~/.config/hypr/hyprland/general.conf```
-*   **Gestures** ```~/.config/hypr/hyprland/gestures.conf```
-*   **Group** ```~/.config/hypr/hyprland/group.conf```
-*   **Input** ```~/.config/hypr/hyprland/input.conf```
-*   **Keybinds** ```~/.config/hypr/hyprland/keybinds.conf```
-*   **Misc** ```~/.config/hypr/hyprland/misc.conf```
-*   **Rules** ```~/.config/hypr/hyprland/rules.conf```
-*   **Scrolling** ```~/.config/hypr/hyprland/scrolling.conf```
+*   **Variables** `~/.config/hypr/variables.conf` — Defines global constants for colors, sizes, and theme toggles used across the config.
+*   **Hyprland** `~/.config/hypr/hyprland.conf` — The main entry point that sources all other modular configuration files.
+*   **Animations** `~/.config/hypr/hyprland/animations.conf` — Custom Bezier curves and animation rules for windows, layers, and workspaces.
+*   **Decoration** `~/.config/hypr/hyprland/decoration.conf` — Visual styling including corner rounding, background blur effects, and window shadows.
+*   **Env** `~/.config/hypr/hyprland/env.conf` — Environment variables for toolkit backends (QT, GTK), XDG specifications, and cursor themes.
+*   **Execs** `~/.config/hypr/hyprland/execs.conf` — Autostart applications, background daemons, and system services initialized on login.
+*   **General** `~/.config/hypr/hyprland/general.conf` — Core layout settings, window gaps, border sizes, and active/inactive border colors.
+*   **Gestures** `~/.config/hypr/hyprland/gestures.conf` — Touchpad workspace swipe settings and multi-finger gesture dispatchers.
+*   **Group** `~/.config/hypr/hyprland/group.conf` — Configuration for tabbed window groups, including group bar fonts and colors.
+*   **Input** `~/.config/hypr/hyprland/input.conf` — Keyboard layouts (US/Arabic), repeat rates, and touchpad/mouse sensitivity settings.
+*   **Keybinds** `~/.config/hypr/hyprland/keybinds.conf` — Comprehensive list of shortcuts for app launching, window management, and media control.
+*   **Misc** `~/.config/hypr/hyprland/misc.conf` — Miscellaneous settings for VRR, power management (DPMS), and focus behavior.
+*   **Rules** `~/.config/hypr/hyprland/rules.conf` — Specific rules to control how individual apps behave (floating, opacity, workspace assignment).
+*   **Scrolling** `~/.config/hypr/hyprland/scrolling.conf` — Configuration for column-based layouts and focus-following behavior.
 
 **Sestem**
 *   **Bootloader** ```/boot/limine/limine.conf```
