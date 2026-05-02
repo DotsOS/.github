@@ -6,6 +6,8 @@
 </div>
 <br />
 
+[DotsOS-Video](https://github.com/user-attachments/assets/ac27173d-74d9-4579-9fe6-887f501ab265)
+
 # DotsOS
 
 > **A complete, elegant, and user-friendly experience on top of Arch Linux.**
@@ -16,26 +18,22 @@
 
 *   **Arch Linux Based:** Enjoy the latest packages and a rolling release model combined with absolute customization power.
 *   **Hyprland Window Manager:** A modern, incredibly smooth Wayland experience featuring gorgeous animations and unparalleled performance.
-*   **Caelestia Shell:** Integrates the elegant[caelestia-dots/shell](https://github.com/caelestia-dots/shell) to deliver a visually pleasing, cohesive, and modern user interface.
+*   **Caelestia:** Integrates the elegant [caelestia-dots](https://github.com/caelestia-dots) to deliver a visually pleasing, cohesive, and modern user interface.
 *   **Caelestia SDDM:** A magical first impression every time you boot your machine, featuring the beautiful [caelestia-sddm](https://github.com/ItsABigIgloo/caelestia-sddm) theme.
 *   **User-Friendly:** Say goodbye to hours of configuration! The system is pre-configured to suit both beginners and power users alike.
 *   **Bug-Free Experience:** We've implemented **tons of tweaks and bug fixes** for common issues found in Hyprland environments, ensuring a stable, reliable, and crash-free workflow.
 
 ## 📸 Screenshots
 
-| Limine Bootloader | Login Screen (SDDM) |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/DotsOS/.github/refs/heads/main/profile/assets/background.png" width="400" alt="Limine Screen"> | <img src="ضع_رابط_صورة_شاشة_الدخول_هنا" width="400" alt="SDDM Screen"> |
-
-*(You can add more screenshots here later)*
-
+| Limine Bootloader | Login Screen (SDDM) | Lock Screen |
+| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/DotsOS/.github/refs/heads/main/profile/assets/background.png" width="400" alt="Limine Screen"> | <img src="https://github.com/user-attachments/assets/3a21a2d3-542a-42fe-b69c-40978eadd42b" width="400" alt="SDDM Screen"> | <img src="https://github.com/user-attachments/assets/21f984bc-2a4b-41f8-90d8-512a326a0b57" width="400" alt="Lock Screen"> |
+| Desktop (Hyprland) | Panels | Notifications |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/22924c33-8105-480a-b16d-12e76c19021f" width="400" alt="Desktop"> | <img src="https://github.com/user-attachments/assets/35648809-2bb7-42c5-bdeb-80d10fc66b93" width="400" alt="Caelestia Shell"> | <img src="" width="400" alt="Notifications"> |
 ## 🚀 Installation
 
-*(Add your installation instructions, scripts, or ISO link here)*
-
 ## ⚙️ Configuration
-
-*(Add any post-installation tips, default keybindings, or configuration steps here)*
 
 ## 🙏 Credits
 
