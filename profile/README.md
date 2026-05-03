@@ -66,7 +66,7 @@ This project wouldn't be possible without these amazing open-source projects. Sp
 *   **[Arch Linux](https://archlinux.org/)** - For the robust and powerful base operating system.
 *   **[caelestia-dots](https://github.com/caelestia-dots)** - For the gorgeous UI components, and the core dotfiles inspiration.
 *   **[caelestia-sddm](https://github.com/ItsABigIgloo/caelestia-sddm)** - For the beautiful login manager theme.
-*   **[Quickshell](https://quickshell.org)** - The 
+*   **[Quickshell](https://quickshell.org)** - This is the shell used in the OS with some Configuration.
 
 ## 📜 License
 
