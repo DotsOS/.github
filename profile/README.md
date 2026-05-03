@@ -3,8 +3,13 @@
   <br/>
   <h1 align="center">DotsOS</h1>
   <p align="center">An Arch-based integrated environment offering easy installation and extensive customization.</p>
+  <div align="center">
+  <p>لإختيار اللغة العربية اضغط على الزر: </p>
+  <a href="READMEARABIC.md">
+  <img src="https://github.com/user-attachments/assets/ca0cc136-5625-4e6c-813b-3a446694da8a" width="128" alt="Arabic">
+</a>
   <p align="center">
-    <b><a href="https://github.com/user-attachments/assets/ac27173d-74d9-4579-9fe6-887f501ab265">🎥 Watch DotsOS in Action</a></b>
+    <video src="https://github.com/user-attachments/assets/ac27173d-74d9-4579-9fe6-887f501ab265">
   </p>
 </div>
 <br />
