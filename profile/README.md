@@ -64,8 +64,9 @@ This configuration follows a modular structure to keep the setup organized and e
 This project wouldn't be possible without these amazing open-source projects. Special thanks to:
 
 *   **[Arch Linux](https://archlinux.org/)** - For the robust and powerful base operating system.
-*   **[caelestia-dots](https://github.com/caelestia-dots)** - For the gorgeous shell, UI components, and the core dotfiles inspiration.
+*   **[caelestia-dots](https://github.com/caelestia-dots)** - For the gorgeous UI components, and the core dotfiles inspiration.
 *   **[caelestia-sddm](https://github.com/ItsABigIgloo/caelestia-sddm)** - For the beautiful login manager theme.
+*   **[Quickshell](https://quickshell.org)** - The 
 
 ## 📜 License
 
