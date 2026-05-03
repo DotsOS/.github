@@ -58,7 +58,7 @@ This configuration follows a modular structure to keep the setup organized and e
 
 **Sestem**
 *   **Bootloader** `/boot/limine/limine.conf`
-*   **Plymouth** `/usr/share/plymouth/themes/DotsOS/`
+*   **Plymouth** `/usr/share/plymouth/themes/DotsOS`
 
 ## 🙏 Credits
 
