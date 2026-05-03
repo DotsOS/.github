@@ -70,6 +70,10 @@ This project wouldn't be possible without these amazing open-source projects. Sp
 *   **[Quickshell](https://quickshell.org)** - This is the shell used in the OS with some Configuration.
 
 ---
+This project was made possible by the contributions of:
+
+* [Khalil_56](https://github.com/Khalilw5556)
+* [Roitsc](https://github.com/Roitsc)
 
 ## 📜 License
 
