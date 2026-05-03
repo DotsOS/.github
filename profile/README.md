@@ -57,7 +57,8 @@ This configuration follows a modular structure to keep the setup organized and e
 *   **Scrolling** `~/.config/hypr/hyprland/scrolling.conf` — Configuration for column-based layouts and focus-following behavior.
 
 **Sestem**
-*   **Bootloader** ```/boot/limine/limine.conf```
+*   **Bootloader** `/boot/limine/limine.conf`
+*   **Plymouth** `/usr/share/plymouth/themes/DotsOS/`
 
 ## 🙏 Credits
 
