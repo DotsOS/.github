@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DotsOS/.github/refs/heads/main/profile/assets/dotsos.png" width="256" alt="DotsOS logo">
+  <img src="https://github.com/user-attachments/assets/661221d5-4bae-4776-9fbf-97e28b57207f" width="256" alt="DotsOS logo">
   <br/>
   <h1 align="center">DotsOS</h1>
   <p align="center">DotsOS - Arch-based distribution offering an easy installation, several customizations.</p>
@@ -27,7 +27,7 @@
 
 | Bootloader (Limine) | Login Screen (SDDM) | Lock Screen |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/DotsOS/.github/refs/heads/main/profile/assets/background.png" width="400" alt="Limine Screen"> | <img src="https://github.com/user-attachments/assets/3a21a2d3-542a-42fe-b69c-40978eadd42b" width="400" alt="SDDM Screen"> | <img src="https://github.com/user-attachments/assets/21f984bc-2a4b-41f8-90d8-512a326a0b57" width="400" alt="Lock Screen"> |
+| <img src="https://github.com/user-attachments/assets/8f121115-23b0-4f32-b199-2c4661419f3c" width="400" alt="Limine Screen"> | <img src="https://github.com/user-attachments/assets/3a21a2d3-542a-42fe-b69c-40978eadd42b" width="400" alt="SDDM Screen"> | <img src="https://github.com/user-attachments/assets/21f984bc-2a4b-41f8-90d8-512a326a0b57" width="400" alt="Lock Screen"> |
 
 | Desktop (Hyprland) | Panels | Notifications |
 | :---: | :---: | :---: |
@@ -68,6 +68,8 @@ This project wouldn't be possible without these amazing open-source projects. Sp
 *   **[caelestia-dots](https://github.com/caelestia-dots)** - For the gorgeous UI components, and the core dotfiles inspiration.
 *   **[caelestia-sddm](https://github.com/ItsABigIgloo/caelestia-sddm)** - For the beautiful login manager theme.
 *   **[Quickshell](https://quickshell.org)** - This is the shell used in the OS with some Configuration.
+
+---
 
 ## 📜 License
 
