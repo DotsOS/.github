@@ -3,11 +3,6 @@
   <br/>
   <h1 align="center">DotsOS</h1>
   <p align="center">An Arch-based integrated environment offering easy installation and extensive customization.</p>
-  
-  <p align="center">
-    لاختيار اللغة العربية:<br/>
-    <a href="README.ar.md">
-      <img src="https://github.com/user-attachments/assets/ca0cc136-5625-4e6c-813b-3a446694da8a" width="128" alt="اقرأ باللغة العربية">
     </a>
   </p>
 </div>
