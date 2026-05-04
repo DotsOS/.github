@@ -3,6 +3,10 @@
   <br/>
   <h1 align="center">DotsOS</h1>
   <p align="center">An Arch-based integrated environment offering easy installation and extensive customization.</p>
+  <p align="center">
+</b> 
+    <a href="">
+      <img src="" width="128" alt="Read in Another Language">
     </a>
   </p>
 </div>
