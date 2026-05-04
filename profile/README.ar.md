@@ -3,11 +3,6 @@
   <br/>
   <h1 align="center">DotsOS</h1>
   <p align="center">بيئة متكاملة مبنية على نظام Arch توفر سهولة التثبيت وتخصيصاً واسع النطاق.</p>
-  
-  <p align="center">
-    للقراءة باللغة الإنجليزية (For English):<br/>
-    <a href="README.md">
-      <img src="https://github.com/user-attachments/assets/ca0cc136-5625-4e6c-813b-3a446694da8a" width="128" alt="Read in English">
     </a>
   </p>
 </div>
