@@ -12,7 +12,7 @@
 </div>
 <br />
 
-https://github.com/user-attachments/assets/ac27173d-74d9-4579-9fe6-887f501ab265
+
 
 > **A complete, elegant, and user-friendly experience on top of Arch Linux.**
 
@@ -22,8 +22,8 @@ https://github.com/user-attachments/assets/ac27173d-74d9-4579-9fe6-887f501ab265
 
 *   **Arch Linux-Based:** Enjoy the latest packages and a rolling release model combined with absolute customization power.
 *   **Hyprland Wayland Compositor:** A modern, incredibly smooth Wayland experience featuring gorgeous animations and unparalleled performance.
-*   **Caelestia:** Integrates the elegant [caelestia-dots](https://github.com/caelestia-dots) to deliver a visually pleasing, cohesive, and modern user interface.
-*   **Caelestia SDDM:** A magical first impression every time you boot your machine, featuring the beautiful[caelestia-sddm](https://github.com/ItsABigIgloo/caelestia-sddm) theme.
+*   **QuickShell:** Integrates the elegant [Quickshell](https://quickshell.org/) to deliver a visually pleasing, cohesive, and modern user interface.
+*   **DotsOS SDDM:** A magical first impression every time you boot your machine, featuring the beautiful [DotsOS SDDM]() theme.
 *   **User-Friendly:** Say goodbye to hours of configuration! The system is pre-configured to suit both beginners and power users alike.
 *   **Optimized & Stable Experience:** We've implemented **tons of tweaks and fixes** for common issues found in Hyprland environments, ensuring a stable, reliable, and crash-free workflow.
 
@@ -31,11 +31,11 @@ https://github.com/user-attachments/assets/ac27173d-74d9-4579-9fe6-887f501ab265
 
 | Bootloader (Limine) | Login Screen (SDDM) | Lock Screen |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/8f121115-23b0-4f32-b199-2c4661419f3c" width="400" alt="Limine Screen"> | <img src="https://github.com/user-attachments/assets/3a21a2d3-542a-42fe-b69c-40978eadd42b" width="400" alt="SDDM Screen"> | <img src="https://github.com/user-attachments/assets/21f984bc-2a4b-41f8-90d8-512a326a0b57" width="400" alt="Lock Screen"> |
+| <img src="https://github.com/user-attachments/assets/8f121115-23b0-4f32-b199-2c4661419f3c" width="400" alt="Limine Screen"> | <img src="" width="400" alt="SDDM Screen"> | <img src="" width="400" alt="Lock Screen"> |
 
 | Desktop (Hyprland) | Panels | Notifications |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/22924c33-8105-480a-b16d-12e76c19021f" width="400" alt="Desktop"> | <img src="https://github.com/user-attachments/assets/35648809-2bb7-42c5-bdeb-80d10fc66b93" width="400" alt="Caelestia Shell"> | <img src="https://github.com/user-attachments/assets/3170f3cc-7795-4ad8-8718-21b7c5af404a" width="400" alt="Notifications"> |
+| <img src="" width="400" alt="Desktop"> | <img src="" width="400" alt="Shell"> | <img src="" width="400" alt="Notifications"> |
 
 ## 🚀 Installation
 
@@ -45,21 +45,7 @@ https://github.com/user-attachments/assets/ac27173d-74d9-4579-9fe6-887f501ab265
 
 This configuration follows a modular structure to keep the setup organized and easy to maintain. Below is a breakdown of the configuration files:
 
-**Hyprland (Caelestia Dots)**
-*   **Variables** `~/.config/hypr/variables.conf` — Defines global constants for colors, sizes, and theme toggles used across the config.
-*   **Hyprland** `~/.config/hypr/hyprland.conf` — The main entry point that sources all other modular configuration files.
-*   **Animations** `~/.config/hypr/hyprland/animations.conf` — Custom Bezier curves and animation rules for windows, layers, and workspaces.
-*   **Decoration** `~/.config/hypr/hyprland/decoration.conf` — Visual styling including corner rounding, background blur effects, and window shadows.
-*   **Env** `~/.config/hypr/hyprland/env.conf` — Environment variables for toolkit backends (QT, GTK), XDG specifications, and cursor themes.
-*   **Execs** `~/.config/hypr/hyprland/execs.conf` — Autostart applications, background daemons, and system services initialized on login.
-*   **General** `~/.config/hypr/hyprland/general.conf` — Core layout settings, window gaps, border sizes, and active/inactive border colors.
-*   **Gestures** `~/.config/hypr/hyprland/gestures.conf` — Touchpad workspace swipe settings and multi-finger gesture dispatchers.
-*   **Group** `~/.config/hypr/hyprland/group.conf` — Configuration for tabbed window groups, including group bar fonts and colors.
-*   **Input** `~/.config/hypr/hyprland/input.conf` — Keyboard layouts (US/Arabic), repeat rates, and touchpad/mouse sensitivity settings.
-*   **Keybinds** `~/.config/hypr/hyprland/keybinds.conf` — Comprehensive list of shortcuts for app launching, window management, and media control.
-*   **Misc** `~/.config/hypr/hyprland/misc.conf` — Miscellaneous settings for VRR, power management (DPMS), and focus behavior.
-*   **Rules** `~/.config/hypr/hyprland/rules.conf` — Specific rules to control how individual apps behave (floating, opacity, workspace assignment).
-*   **Scrolling** `~/.config/hypr/hyprland/scrolling.conf` — Configuration for column-based layouts and focus-following behavior.
+**Coming Soon**
 
 **System**
 *   **Bootloader** `/boot/limine/limine.conf`
@@ -70,8 +56,6 @@ This configuration follows a modular structure to keep the setup organized and e
 This project wouldn't be possible without these amazing open-source projects. Special thanks to:
 
 *   **[Arch Linux](https://archlinux.org/)** - For the robust and powerful base operating system.
-*   **[caelestia-dots](https://github.com/caelestia-dots)** - For the gorgeous UI components and core dotfiles inspiration.
-*   **[caelestia-sddm](https://github.com/ItsABigIgloo/caelestia-sddm)** - For the beautiful login manager theme.
 *   **[Quickshell](https://quickshell.org)** - The primary shell powering the OS, adapted with our custom configurations.
 
 ---
