@@ -39,13 +39,15 @@ DotsOS is a fully integrated environment that's ready to roll right out of the b
 
 ## 🚀 Getting Started (Installation)
 
-**Coming Soon**
+*   **Coming Soon**
 
 ## ⚙️ How It's Set Up (Configuration)
 
 We've organized the configuration using a modular approach to keep things neat and easy to manage. Here's a quick look at the configuration files:
 
-**Coming Soon**
+**Quickshell:**
+
+*   **Coming Soon**
 
 **System Stuff:**
 *   **Bootloader:** `/boot/limine/limine.conf`
