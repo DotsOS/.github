@@ -65,6 +65,7 @@ This project was brought to life by the awesome contributions of:
 
 *   [Khalil_56](https://github.com/Khalilw5556)
 *   [Roitsc](https://github.com/Roitsc)
+*   [Mo1_1](https://github.com/Mo1_1)
 
 ## 📜 Licensing
 
